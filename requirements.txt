@@ -5,6 +5,6 @@ scikit-learn
 matplotlib
 seaborn
 notebook
-
+talib==0.4.24
 nltk
 
