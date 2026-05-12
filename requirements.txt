@@ -5,6 +5,6 @@ scikit-learn
 matplotlib
 seaborn
 notebook
-
+ta-lib
 nltk
 
